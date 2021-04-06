@@ -1,4 +1,4 @@
 paddlepaddle
-paddleclas
 paddleseg
 Paddlex
+paddleclas
