@@ -2,3 +2,4 @@ paddlepaddle
 paddleseg
 Paddlex
 paddleclas
+paddlegan
